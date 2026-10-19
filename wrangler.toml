@@ -1,0 +1,10 @@
+name = "radiologia-resultados"
+main = "worker.mjs"
+compatibility_date = "2026-10-19"
+workers_dev = true
+
+[vars]
+ALLOWED_ORIGIN = "https://jorgealberto188-creator.github.io"
+# Crie este repositório como PRIVADO, com um README para inicializar a branch.
+GITHUB_REPOSITORY = "jorgealberto188-creator/resultados-radiologia"
+# GITHUB_TOKEN e CLASS_CODE são secrets; nunca escreva os valores neste arquivo.
