@@ -1,0 +1,513 @@
+{
+  "formato": "respostas-psicologia-radiologia",
+  "versao": 1,
+  "sessao_id": null,
+  "iniciado_em": null,
+  "gerado_em": null,
+  "publico": "Alunos do curso técnico em radiologia",
+  "finalidade": "Atividade educativa; não constitui avaliação psicológica ou diagnóstico de personalidade",
+  "estado": "parcial",
+  "blocos": [
+    {
+      "id": "apt",
+      "titulo": "Aptidão",
+      "estado": "nao_iniciado",
+      "respostas": [
+        {
+          "item": 1,
+          "pergunta": "Durante uma prática supervisionada, você confere os dados antes de um exame. Neste exercício, nome e data de nascimento devem coincidir em três fontes: o que o paciente diz, a pulseira e o pedido. O paciente e a pulseira informam Ana Lima, 08/04/1982. O pedido informa Ana Lima, 04/08/1982. A recepção sugere que dia e mês foram trocados. O que ainda precisa acontecer para informar ao supervisor que a conferência está completa?",
+          "alternativas": [
+            "Confirmação verbal de que a recepção usa o formato mês/dia.",
+            "Registro da divergência junto ao pedido, mantendo os dados atuais.",
+            "Correção documentada do pedido com a identidade conferida.",
+            "Nova conferência entre relato e pulseira feita por outro colega."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "C",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 2,
+          "pergunta": "Você deve organizar cinco etapas de um atendimento fictício. Regras: 1) fazer o cadastro antes da conferência dos dados; 2) conferir os dados antes do preparo; 3) realizar o transporte somente após o cadastro; 4) iniciar a aquisição das imagens somente depois de concluir preparo e transporte. Qual sequência cumpre todas as regras?",
+          "alternativas": [
+            "Cadastro → transporte → conferência → preparo → aquisição.",
+            "Cadastro → conferência → transporte → aquisição → preparo.",
+            "Cadastro → preparo → conferência → transporte → aquisição.",
+            "Transporte → cadastro → conferência → preparo → aquisição."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "A",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 3,
+          "pergunta": "Em uma simulação de passagem de atendimento, você recebe uma tarefa que foi interrompida. O registro confirma que identidade e pedido já foram conferidos. Informa também que o preparo começou, mas não diz se terminou. Não há outra dúvida sobre as etapas anteriores. Antes de avançar para a aquisição das imagens, qual ação resolve a informação que falta?",
+          "alternativas": [
+            "Repetir cadastro e todas as etapas para reconstruir a sequência.",
+            "Concluir o preparo com base no horário e pedir revisão posterior.",
+            "Solicitar nova conferência de identidade e liberar a etapa seguinte.",
+            "Verificar o estado do preparo e confirmar sua conclusão antes de avançar."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "D",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 4,
+          "pergunta": "Você organiza três exames fictícios em uma única sala. A dura 12 minutos e está disponível às 8h; B dura 18 minutos e chega às 8h10; C dura 10 minutos e está disponível às 8h. Não há urgências, tempo de troca ou interrupção de exames. Todas as sequências abaixo terminam às 8h40. Qual delas faz B esperar menos depois de chegar?",
+          "alternativas": [
+            "A → B → C.",
+            "C → A → B.",
+            "A → C → B.",
+            "C → B → A."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "D",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 5,
+          "pergunta": "Em uma aula prática, você compara uma ficha anterior com a atual. Ficha anterior: sala 2, exame A, lado direito, horário 14h20. Ficha atual: sala 2, exame A, lado esquerdo, horário 14h40. A regra do exercício exige confirmar com o professor qualquer mudança de lado antes de preparar o posicionamento. Qual resumo identifica as mudanças e aplica a regra?",
+          "alternativas": [
+            "Mudaram lado e horário; confirmar a mudança de lado com o professor antes do posicionamento.",
+            "Mudou apenas o horário; preparar o mesmo posicionamento usado anteriormente.",
+            "Mudaram sala e lado; confirmar a sala antes de organizar o posicionamento.",
+            "Mudaram lado e horário; ajustar o posicionamento pelo dado mais recente e informar ao final."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "A",
+          "acerto": null,
+          "feedback": null
+        }
+      ],
+      "ultimo_resultado_concluido": null
+    },
+    {
+      "id": "emo",
+      "titulo": "Inteligência emocional",
+      "estado": "nao_iniciado",
+      "respostas": [
+        {
+          "item": 1,
+          "pergunta": "Antes da ressonância, o paciente sorri e diz que está bem. Mesmo assim, pergunta pela terceira vez como poderá sair do aparelho. Você quer entender o motivo dessa pergunta antes de repetir as orientações. Qual pergunta esclarece melhor a preocupação atual?",
+          "alternativas": [
+            "“Você já teve uma experiência difícil em outro exame?”",
+            "“O que você imagina que aconteceria se precisasse sair durante o exame?”",
+            "“Quer que eu explique novamente todas as etapas do exame?”",
+            "“Você prefere conversar com quem o acompanhou até aqui?”"
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "B",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 2,
+          "pergunta": "Durante uma prática supervisionada em radiologia, você ficou tenso depois de saber de um erro recente da equipe. No atendimento atual, todas as conferências previstas foram concluídas e não apareceu nenhum problema. Mesmo assim, você sente vontade de conferir tudo várias vezes, sem saber quando parar. Qual estratégia permite considerar essa tensão sem usá-la, sozinha, como prova de erro?",
+          "alternativas": [
+            "Pedir a um colega que repita o protocolo inteiro para reduzir a tensão.",
+            "Adiar todos os exames semelhantes até se sentir novamente segura.",
+            "Separar o alerta emocional da evidência atual e definir um critério concreto para decidir quando revisar.",
+            "Acrescentar uma conferência a cada novo episódio de desconforto."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "C",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 3,
+          "pergunta": "Um paciente estava irritado antes do exame. Depois de receber uma explicação clara, fala com mais calma, mas ainda evita a posição necessária. Ele conta que um exame anterior foi doloroso. Qual interpretação deve orientar sua próxima conversa com ele?",
+          "alternativas": [
+            "A informação reduziu a incerteza, mas a expectativa de dor ainda precisa ser explorada.",
+            "A informação foi compreendida; agora o principal obstáculo deve ser a espera acumulada.",
+            "A experiência anterior explica a recusa e permite antecipar qual adaptação ele prefere.",
+            "A redução da irritação indica que ele já está pronto, embora ainda hesite."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "A",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 4,
+          "pergunta": "Durante uma prática supervisionada, o acompanhante questiona sua orientação sobre o exame. Não há ameaça, mas o paciente parece preocupado com a discussão. Você ainda não sabe o que motivou a crítica. Qual é a melhor primeira resposta para esclarecer a dúvida e manter o atendimento?",
+          "alternativas": [
+            "Explicar sua formação e depois retomar a orientação que estava dando.",
+            "Convidar o acompanhante para conversar fora e continuar orientando o paciente.",
+            "Solicitar ao supervisor que conduza a conversa antes de você voltar ao atendimento.",
+            "Reconhecer a dúvida, perguntar qual fato a motivou e combinar como esclarecê-la."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "D",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 5,
+          "pergunta": "Em uma atividade simulada de posicionamento, o paciente responde “tanto faz” quando você pergunta se pode continuar. Ele olha para o acompanhante e fica em silêncio. Você não sabe se isso significa concordância, dúvida ou receio de contrariar alguém. Qual intervenção esclarece melhor a vontade dele?",
+          "alternativas": [
+            "Pedir ao acompanhante que explique qual escolha costuma tranquilizá-lo.",
+            "Apresentar a continuação como a opção mais rápida e aguardar uma objeção.",
+            "Explicar novamente o benefício do exame antes de fazer a mesma pergunta.",
+            "Perguntar diretamente o que ele prefere e oferecer espaço para dúvidas sem pressão."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "D",
+          "acerto": null,
+          "feedback": null
+        }
+      ],
+      "ultimo_resultado_concluido": null
+    },
+    {
+      "id": "equ",
+      "titulo": "Equilíbrio emocional",
+      "estado": "nao_iniciado",
+      "respostas": [
+        {
+          "item": 1,
+          "pergunta": "Um atendimento difícil deixou você emocionalmente mobilizado. Você não percebeu falha, mas vai começar uma etapa que exige muita atenção. O supervisor está disponível; se for preciso transferir a tarefa, a passagem de informações leva dois minutos. Qual primeira decisão permite avaliar se você consegue continuar com segurança?",
+          "alternativas": [
+            "Repassar todo o turno ao colega até não sentir mais desconforto.",
+            "Manter a tarefa e usar a rapidez como sinal de que está concentrado.",
+            "Combinar com o supervisor uma breve avaliação da sua condição para a tarefa e definir o apoio necessário.",
+            "Solicitar ao colega revisão apenas depois de concluir a etapa crítica."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "C",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 2,
+          "pergunta": "Durante uma prática supervisionada, um colega corrige você na frente da equipe. Você sente raiva. A correção menciona uma divergência nos dados que pode afetar o exame em andamento e que pode ser conferida agora. Você também quer discutir a forma como foi tratado. Em que ordem deve lidar com essas duas questões?",
+          "alternativas": [
+            "Verificar a divergência agora e discutir em reservado a forma da correção depois.",
+            "Pedir conversa reservada sobre o tom antes de examinar a divergência.",
+            "Solicitar ao supervisor que decida se a correção foi apropriada antes de retomar.",
+            "Explicar sua intenção à equipe e verificar a divergência ao terminar a discussão."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "A",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 3,
+          "pergunta": "Depois de um evento adverso no serviço, é necessário registrar os fatos e revisar o que aconteceu. Alguns profissionais querem falar de suas emoções; outros não querem. Qual proposta atende à revisão do trabalho sem obrigar ninguém a expor sentimentos?",
+          "alternativas": [
+            "Uma reunião única com rodada de relato emocional seguida de reconstrução técnica.",
+            "Um encontro de apoio opcional que substitui a revisão técnica para evitar repetição.",
+            "Uma revisão técnica obrigatória em que se espera que todos relatem como se sentiram.",
+            "Preservar os fatos pelo procedimento definido pelo serviço e oferecer apoio reservado, sem exigir relato emocional."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "D",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 4,
+          "pergunta": "Em uma atividade de análise de um serviço fictício, a equipe suspeita que a ansiedade esteja causando esquecimentos. Os registros mostram também pedidos duplicados e interrupções na mesma etapa. O professor pede uma proposta para investigar se a organização contribui para o problema, mantendo o apoio pessoal. Qual plano atende a esse pedido?",
+          "alternativas": [
+            "Treinar respiração por uma semana e comparar a satisfação geral com o turno anterior.",
+            "Testar uma mudança no fluxo, registrar interrupções e lapsos e manter acesso ao apoio individual.",
+            "Comparar relatos de ansiedade e atribuir os lapsos ao grupo com maior média.",
+            "Reforçar treinamento técnico e medir apenas a quantidade de exames concluídos."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "B",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 5,
+          "pergunta": "Numa simulação, você recebe nota menor que esperava e fica frustrado. O professor indica dois pontos concretos que precisam de revisão. A próxima prática será na semana seguinte. Qual plano transforma esse retorno em preparação verificável?",
+          "alternativas": [
+            "Refazer a sequência inteira várias vezes e comparar apenas o tempo final.",
+            "Definir com o professor critérios para os dois pontos, praticá-los e pedir nova observação.",
+            "Estudar os conteúdos em que já foi bem para recuperar a confiança antes de revisar os erros.",
+            "Observar colegas com notas altas e tentar reproduzir o ritmo deles na próxima prática."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "B",
+          "acerto": null,
+          "feedback": null
+        }
+      ],
+      "ultimo_resultado_concluido": null
+    },
+    {
+      "id": "com",
+      "titulo": "Acolhimento",
+      "estado": "nao_iniciado",
+      "respostas": [
+        {
+          "item": 1,
+          "pergunta": "Antes de uma ressonância que pode ser reagendada sem urgência, uma pessoa diz ter medo de ficar presa. Você explica como ela pode se comunicar com a equipe e pedir ajuda. Ela descreve corretamente a orientação, mas continua hesitando; ainda não recusou o exame. Qual deve ser sua próxima intervenção?",
+          "alternativas": [
+            "Repetir o mecanismo de comunicação usando palavras mais simples.",
+            "Pedir autorização para explorar o que ainda parece difícil e discutir possibilidades com a equipe.",
+            "Acionar imediatamente o fluxo de reagendamento por receio persistente.",
+            "Convidar o acompanhante a explicar por que o exame é importante."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "B",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 2,
+          "pergunta": "Você explica uma sequência de movimentos necessária ao posicionamento. A pessoa repete suas palavras, mas ao demonstrar começa pelo último movimento. Você quer verificar se ela consegue executar a sequência, e não apenas repetir a explicação. O que fazer agora?",
+          "alternativas": [
+            "Pedir que repita a explicação sem ajuda e com suas próprias palavras.",
+            "Mostrar a sequência completa novamente e perguntar se agora ficou clara.",
+            "Reexplicar o ponto divergente e pedir nova demonstração da sequência.",
+            "Entregar instruções escritas e pedir que sinalize se houver dúvidas."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "C",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 3,
+          "pergunta": "Durante o posicionamento, o paciente diz que não consegue elevar o braço por dor. Ele aceita continuar se houver outra posição. Você ainda não sabe se uma posição diferente permite obter a imagem necessária. Qual deve ser sua primeira resposta?",
+          "alternativas": [
+            "Confirmar o limite relatado e consultar a equipe sobre alternativas antes de prometer uma posição.",
+            "Explicar uma posição alternativa conhecida e obter concordância antes de verificar sua adequação.",
+            "Encaminhar diretamente para reagendamento para não aumentar o desconforto atual.",
+            "Solicitar uma tentativa breve da posição original para medir sua tolerância."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "A",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 4,
+          "pergunta": "Depois de um caso difícil, um colega diz em reservado: “Não quero falar do caso agora, mas preciso de ajuda com esta tarefa”. Qual resposta atende ao pedido imediato e respeita o limite que ele expressou?",
+          "alternativas": [
+            "Propor que ele relate brevemente o caso antes de reorganizarem a tarefa.",
+            "Assumir todas as tarefas do restante do turno e avisar a equipe que ele está abalado.",
+            "Orientar que procure apoio e deixar a divisão de tarefas para depois.",
+            "Combinar a ajuda possível agora e oferecer uma conversa futura, sem exigir explicações."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "D",
+          "acerto": null,
+          "feedback": null
+        },
+        {
+          "item": 5,
+          "pergunta": "Durante uma prática supervisionada, o paciente pergunta sobre informações pessoais do exame enquanto outras pessoas aguardam perto. Não há urgência. Você não sabe se ele se sente confortável em falar ali. Qual primeira resposta permite acolher a dúvida e preservar a escolha dele?",
+          "alternativas": [
+            "Responder em voz baixa no mesmo local e seguir com todas as perguntas.",
+            "Pedir ao acompanhante que repasse a pergunta ao supervisor mais tarde.",
+            "Perguntar se ele prefere conversar em um local mais reservado e organizar isso com o supervisor.",
+            "Entregar a orientação escrita e deixar a conversa para o fim do atendimento."
+          ],
+          "resposta": null,
+          "texto_resposta": null,
+          "gabarito": "C",
+          "acerto": null,
+          "feedback": null
+        }
+      ],
+      "ultimo_resultado_concluido": null
+    }
+  ],
+  "autorreflexao": {
+    "total": 15,
+    "respondidas": 0,
+    "escala": {
+      "minimo": 1,
+      "maximo": 5,
+      "rotulos": [
+        "Nada",
+        "Pouco",
+        "Moderadamente",
+        "Bastante",
+        "Muito"
+      ]
+    },
+    "nota": null,
+    "respostas": [
+      {
+        "item": 1,
+        "tema": "Tranquilidade",
+        "pergunta": "Quanto você se sente tranquilo(a) agora?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 2,
+        "tema": "Confiança para aprender",
+        "pergunta": "Quanto você se sente confiante para aprender e praticar com supervisão agora?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 3,
+        "tema": "Concentração percebida",
+        "pergunta": "Quanto você sente que consegue se concentrar nas atividades agora?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 4,
+        "tema": "Disposição",
+        "pergunta": "Quanta disposição você sente para participar da aula ou prática agora?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 5,
+        "tema": "Conforto para pedir ajuda",
+        "pergunta": "Quanto você se sente à vontade para pedir ajuda ao professor ou supervisor agora?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 6,
+        "tema": "Preparação percebida para uma vaga",
+        "pergunta": "Quanto você se sente preparado(a) para concorrer a uma vaga inicial em radiologia compatível com sua formação?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 7,
+        "tema": "Expectativa de ser escolhido para indicação",
+        "pergunta": "Se o professor pudesse indicar apenas um aluno para uma vaga de emprego em radiologia, quanto você sentiria que tem o direito de ser o escolhido?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 8,
+        "tema": "Abertura aos critérios da indicação",
+        "pergunta": "Se outro aluno fosse indicado para essa vaga, quanto você estaria disposto(a) a conhecer os critérios usados antes de avaliar a decisão?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 9,
+        "tema": "Abertura ao retorno sobre sua preparação",
+        "pergunta": "Quanto você se sente disposto(a) a ouvir quais pontos ainda precisa desenvolver para uma oportunidade de trabalho?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 10,
+        "tema": "Cooperação com colegas",
+        "pergunta": "Quanto você se sente disposto(a) a colaborar com a aprendizagem de um colega que também concorre às mesmas oportunidades que você?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 11,
+        "tema": "Limites para conseguir uma vaga",
+        "pergunta": "Quanto você aceitaria fazer ‘qualquer coisa’ para conseguir uma vaga de estágio ou emprego privilegiada, mesmo que isso envolvesse contrariar condutas éticas ou regras de seleção?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 12,
+        "tema": "Honestidade sobre a própria experiência",
+        "pergunta": "Quanto você estaria disposto(a) a informar que ainda não domina um procedimento, mesmo receando perder uma oportunidade de estágio?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 13,
+        "tema": "Confidencialidade de informações",
+        "pergunta": "Quanto você estaria disposto(a) a recusar o envio de uma imagem com dados identificáveis de paciente por um canal não autorizado, mesmo se isso fosse pedido por alguém influente na escolha de estagiários?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 14,
+        "tema": "Transparência diante de um erro",
+        "pergunta": "Quanto você estaria disposto(a) a comunicar ao supervisor um erro seu durante uma atividade prática, mesmo receando uma avaliação negativa?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      },
+      {
+        "item": 15,
+        "tema": "Justiça entre candidatos",
+        "pergunta": "Quanto você estaria disposto(a) a recusar uma vantagem pessoal que dependesse de divulgar informações falsas sobre outro aluno que concorre à mesma vaga?",
+        "resposta": null,
+        "significado": null,
+        "feedback": null,
+        "contexto": null,
+        "sugestao": null
+      }
+    ]
+  },
+  "historico_resultados": []
+}
